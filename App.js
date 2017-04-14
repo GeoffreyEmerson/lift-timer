@@ -1,10 +1,10 @@
 import React from 'react';
-import Timer from './app/components/Timer'
+import Main from './app/components/Main'
 
 export default class App extends React.Component {
   render() {
     return (
-      <Timer />
+      <Main />
     );
   }
 }
